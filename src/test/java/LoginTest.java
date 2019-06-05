@@ -26,7 +26,7 @@ public class LoginTest {
 	@AfterTest
 	public void teardown() {
 		
-		
+		System.out.println(" Quit");
 		
 		System.out.println(" closed the driver");
 	}
